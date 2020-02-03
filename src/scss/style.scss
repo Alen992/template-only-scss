@@ -1,7 +1,33 @@
+// // abstracts
+// @import 'abstracts/abstracts.functions';
+// @import 'abstracts/abstracts.mixins';
+// @import 'abstracts/abstracts.variables';
+
+// // base
+// @import 'base/base.base';
+// @import 'base/base.typography';
+// @import 'base/base.utilities';
+// @import 'base/base.animations';
+
+// // components
+// @import 'components/components.buttons';
+// @import 'components/component.notifications';
+// @import 'components/components.tab';
+// @import 'components/component.testemonial';
+// @import 'components/component.recipe';
+// @import 'components/component.ingredients';
+// @import 'components/component.subscribe';
+
+
+
+// //layout
+// @import 'layout/layout.navigation';
+// @import 'layout/layout.footer';
+
+
+// // pages
+// @import 'pages/pages.home';
+
 h1 {
     color: red;
-}
-
-h2 {
-    color: blue;
 }
